@@ -1,0 +1,106 @@
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.exe
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.deps.json
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.runtimeconfig.json
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.pdb
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.MainForm.resources
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.AssemblyInfo.cs
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\refint\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.pdb
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.genruntimeconfig.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\ref\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\AngleSharp.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\CliWrap.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeExplode.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeExplode.Converter.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.CopyComplete
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\libmp3lame.32.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\libmp3lame.64.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Lame.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\libmp3lame.32.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\libmp3lame.64.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.exe
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.deps.json
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.runtimeconfig.json
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.pdb
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\AngleSharp.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\CliWrap.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Lame.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeExplode.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeExplode.Converter.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.MainForm.resources
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.AssemblyInfo.cs
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.CopyComplete
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\refint\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.pdb
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.genruntimeconfig.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Copy\YoutubeMusicDownloader\obj\Debug\net7.0-windows\ref\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\libmp3lame.32.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\libmp3lame.64.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.exe
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.deps.json
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.runtimeconfig.json
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeMusicDownloader.pdb
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\AngleSharp.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\CliWrap.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Asio.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Core.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Lame.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Midi.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.Wasapi.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.WinForms.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\NAudio.WinMM.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\System.Text.Json.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeExplode.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\YoutubeExplode.Converter.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\bin\Debug\net7.0-windows\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.MainForm.resources
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.AssemblyInfo.cs
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.csproj.CopyComplete
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\refint\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.pdb
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.genruntimeconfig.cache
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\ref\YoutubeMusicDownloader.dll
+C:\Users\user\Desktop\Coding part2\YoutubeMusicDownloader - Reverse engineered\YoutubeMusicDownloader\obj\Debug\net7.0-windows\YoutubeMusicDownloader.Properties.Resources.resources
